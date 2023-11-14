@@ -27,6 +27,19 @@ body {
   .page-logo {
     width: 200px;
   }
+
+  .container__input {
+    width: 30%;
+    height: 72px;
+    border-radius: 16px;
+    background-color: #FFF;
+    border: none;
+    color: #1875E8;
+    padding: 2rem;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+}
   
   .alura-logo {
     width: 40px;
@@ -45,12 +58,28 @@ body {
     border-radius: 5px;
   }
 
-  button {
-    margin-top: 12px;
-    padding: 4px 8px;
-    border-radius: 10px;
-    background: #ffffff;}
+  .container__botao {
+    border-radius: 16px;
+    background: #1875E8;
+    padding: 16px 24px;
+    width: 30%;
+    font-size: 24px;
+    font-weight: 700;
+    border: none;
+    margin-top: 2rem;
     
+}
+
+.container__botoes {
+  display: flex;
+  gap: 2em;
+  justify-content: center;
+}
+
+button:disabled {
+  background-color: gray;
+}
+
   body > img {
     margin: 0 10px;
   }
@@ -59,4 +88,14 @@ body {
     max-height: 350px;
   }
 
+  .rodape {
+    margin: auto;
+    padding: 2.5px;
+    background-color: #186be8;
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    color: #000000;
+}
   
