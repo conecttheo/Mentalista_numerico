@@ -35,6 +35,22 @@ body {
     right: 10px;
   }
 
+  label {
+    color: #ffffff;
+  }
+
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;}
+    
   body > img {
     margin: 0 10px;
   }
