@@ -10,5 +10,6 @@ Jogo de adivinhar o numero gerado pelo computador aprendido com a  Imersão_DEV 
 | :sparkles: Nome        | **Mentalista**
 | :label: Tecnologias | HTML, CSS e Javascript
 
-![Captura de tela 2023-11-14 163435](https://github.com/conecttheo/Mentalista_numerico/assets/127543588/5cbad7b5-a6b9-4de7-a5a1-6391cbb8dd8d)
+
+![Captura de tela 2023-11-22 205713](https://github.com/conecttheo/Mentalista_numerico/assets/127543588/3b5e87dd-33bf-442a-833c-dc22337b038a)
 
